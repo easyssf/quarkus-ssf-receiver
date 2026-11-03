@@ -1,7 +1,7 @@
 # quarkus-openid-ssf
 
-[![Build (JVM)](https://github.com/quarkiverse/quarkus-openid-ssf/actions/workflows/build.yml/badge.svg)](.github/workflows/build.yml)
-[![Native build](https://github.com/quarkiverse/quarkus-openid-ssf/actions/workflows/native.yml/badge.svg)](.github/workflows/native.yml)
+ARCHIVED: This repository is now part of the quarkiverse and continued here: https://github.com/quarkiverse/quarkus-openid-ssf
+
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 A Quarkus extension that lets a Quarkus app act as a [Shared Signals Framework
@@ -14,12 +14,29 @@ OAuth2 access tokens fits.
 
 | | |
 |---|---|
-| **Status** | Experimental — APIs may change before 1.0. |
+| **Status** | Archived |
 | **License** | [Apache-2.0](LICENSE) |
 | **Java** | 21+ (extension and examples both compile under `--release 21`) |
 | **Quarkus** | 3.35.x (floor — see [Compatibility](#compatibility)) |
 | **Group ID** | `io.quarkiverse.openid-ssf` |
 | **Receiver artifact** | `quarkus-openid-ssf-receiver` |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## What it does
 
